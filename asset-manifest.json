@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.ea8021f8.css",
+    "main.js": "/My-Portfolio/static/js/main.1d90d625.js",
+    "static/js/415.4d6acbeb.chunk.js": "/My-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/My-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/rajas.jpg": "/My-Portfolio/static/media/rajas.64329475ffdb1b0c7fbe.jpg",
+    "static/media/home-main.svg": "/My-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/My-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/shop-g.jpg": "/My-Portfolio/static/media/shop-g.d25a1d9f4353189429fd.jpg",
+    "static/media/blood_bank.jpg": "/My-Portfolio/static/media/blood_bank.441dd7529f5647d86342.jpg",
+    "static/media/Deepak_saini_re.pdf": "/My-Portfolio/static/media/Deepak_saini_re.91a8f416b2c110a8559c.pdf",
+    "static/media/login1.jpg": "/My-Portfolio/static/media/login1.d97edd377c3b36c73da1.jpg",
+    "static/media/portfolio.jpg": "/My-Portfolio/static/media/portfolio.50ca3fe5f6a46a9f744c.jpg",
+    "static/media/home-bg.jpg": "/My-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo1.jpg": "/My-Portfolio/static/media/logo1.e7521ab9e131905d1d17.jpg",
+    "static/media/avatar.svg": "/My-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/My-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.ea8021f8.css.map": "/My-Portfolio/static/css/main.ea8021f8.css.map",
+    "main.1d90d625.js.map": "/My-Portfolio/static/js/main.1d90d625.js.map",
+    "415.4d6acbeb.chunk.js.map": "/My-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/My-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea8021f8.css",
+    "static/js/main.1d90d625.js"
+  ]
+}
