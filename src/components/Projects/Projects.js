@@ -7,6 +7,7 @@ import editor from "../../Assets/Projects/login1.jpg";
 import chatify from "../../Assets/Projects/rajas.jpg";
 import blood_bank from "../../Assets/Projects/blood_bank.jpg";
 import sms from "../../Assets/Projects/sms.jpg";
+import js from "../../Assets/Projects/js.jpg";
 import bitsOfCode from "../../Assets/Projects/shop-g.jpg";
 
 function Projects() {
@@ -21,6 +22,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={js}
+              isBlog={false}
+              title="JavaScript Interview Questions & Answers"
+              description="Preparing for a JavaScript interview? I've compiled a collection of JavaScript Interview Questions & Answers to help developers brush up on essential concepts and ace their interviews!"
+              ghLink="https://github.com/Deepak081999/JAVASCRPIT"
+              demoLink="https://deepak081999.github.io/JAVASCRPIT/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={sms}
