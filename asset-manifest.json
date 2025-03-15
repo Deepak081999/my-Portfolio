@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/my-Portfolio/static/css/main.0dfba61e.css",
-    "main.js": "/my-Portfolio/static/js/main.a751fc96.js",
+    "main.js": "/my-Portfolio/static/js/main.f1db1417.js",
     "static/js/415.4d6acbeb.chunk.js": "/my-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/my-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/rajas.jpg": "/my-Portfolio/static/media/rajas.64329475ffdb1b0c7fbe.jpg",
     "static/media/sms.jpg": "/my-Portfolio/static/media/sms.27c202ad869548c3fab1.jpg",
     "static/media/js.jpg": "/my-Portfolio/static/media/js.661fcd87dc88e452e4e8.jpg",
+    "static/media/Deepak_saini_re.pdf": "/my-Portfolio/static/media/Deepak_saini_re.17182a3ba0b7c496be41.pdf",
     "static/media/home-main.svg": "/my-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/my-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/shop-g.jpg": "/my-Portfolio/static/media/shop-g.d25a1d9f4353189429fd.jpg",
     "static/media/blood_bank.jpg": "/my-Portfolio/static/media/blood_bank.441dd7529f5647d86342.jpg",
-    "static/media/Deepak_saini_re.pdf": "/my-Portfolio/static/media/Deepak_saini_re.16d7a74d2a43f753f933.pdf",
     "static/media/login1.jpg": "/my-Portfolio/static/media/login1.d97edd377c3b36c73da1.jpg",
     "static/media/portfolio.jpg": "/my-Portfolio/static/media/portfolio.50ca3fe5f6a46a9f744c.jpg",
     "static/media/home-bg.jpg": "/my-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -20,12 +20,12 @@
     "static/media/pre.svg": "/my-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/my-Portfolio/index.html",
     "main.0dfba61e.css.map": "/my-Portfolio/static/css/main.0dfba61e.css.map",
-    "main.a751fc96.js.map": "/my-Portfolio/static/js/main.a751fc96.js.map",
+    "main.f1db1417.js.map": "/my-Portfolio/static/js/main.f1db1417.js.map",
     "415.4d6acbeb.chunk.js.map": "/my-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/my-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0dfba61e.css",
-    "static/js/main.a751fc96.js"
+    "static/js/main.f1db1417.js"
   ]
 }
