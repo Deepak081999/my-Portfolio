@@ -11,10 +11,11 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Deepak saini</span>
             from <span className="purple"> Rajasthan, India.</span>
             <br />
-            I am currently Puruing (MCA) From CMR Institute of Technology.
+            I am completed for (MCA) From CMR Institute of Technology.
             <br />
-            I have experience as a full stack developer on GeeksIT Data Solutions Pvt. Ltd. .
+            I have experience as a full stack developer on GeeksIT Data Solutions Pvt. Ltd.
             <br />
+            I’m starting a new position as Full-stack Developer at Erik Business Consultancy Services LLP.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
