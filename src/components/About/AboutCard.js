@@ -8,14 +8,21 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Deepak saini</span>
+            Hi Everyone, I am <span className="purple">Deepak saini </span>
             from <span className="purple"> Rajasthan, India.</span>
             <br />
-            I am completed for (MCA) From CMR Institute of Technology.
             <br />
-            I have experience as a full stack developer on GeeksIT Data Solutions Pvt. Ltd.
+            I have completed my Master of Computer Applications (MCA) from CMR Institute of Technology, Bangalore.
             <br />
-            I’m starting a new position as Full-stack Developer at Erik Business Consultancy Services LLP.
+            <br />
+            I have professional experience as a MERN Stack Developer,
+            <br />
+            having worked at GeeksIT Data Solutions Pvt. Ltd. and
+            <br />
+            completed a hands-on internship at Infatoz Technologies,
+            <br />
+            where I advanced my skills in MERN-based development.
+            <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>

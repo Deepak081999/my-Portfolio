@@ -8,6 +8,7 @@ import chatify from "../../Assets/Projects/rajas.jpg";
 import blood_bank from "../../Assets/Projects/blood_bank.jpg";
 import sms from "../../Assets/Projects/sms.jpg";
 import js from "../../Assets/Projects/js.jpg";
+import reactques from "../../Assets/Projects/reactques.jpg";
 import bitsOfCode from "../../Assets/Projects/shop-g.jpg";
 
 function Projects() {
@@ -22,6 +23,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={reactques}
+              isBlog={false}
+              title="100-Reac-js-objective-mcqs-for-interview-questions"
+              description="Preparing for a React interview? I've compiled a collection of React interview questions and answers to help developers strengthen their core concepts and perform confidently.!"
+              ghLink="https://github.com/Deepak081999/100-Reac-js-objective-mcqs-for-interview-questions"
+              demoLink=" https://deepak081999.github.io/100-Reac-js-objective-mcqs-for-interview-questions/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={js}
