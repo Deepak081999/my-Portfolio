@@ -9,6 +9,8 @@ import blood_bank from "../../Assets/Projects/blood_bank.jpg";
 import sms from "../../Assets/Projects/sms.jpg";
 import js from "../../Assets/Projects/js.jpg";
 import reactques from "../../Assets/Projects/reactques.jpg";
+import AIIP from "../../Assets/Projects/AI-I-P.jpg";
+import radhe from "../../Assets/Projects/radhe.jpg";
 import bitsOfCode from "../../Assets/Projects/shop-g.jpg";
 
 function Projects() {
@@ -23,6 +25,26 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={radhe}
+              isBlog={false}
+              title="Shree Radha Rani Jap Counter"
+              description="Radhajap.in is a simple online tool designed for devotees who wish to count their Radha Naam Jap digitally. Instead of using a physical mala, you can tap the counter on our website and keep track of your daily chanting anywhere, anytime."
+              ghLink="https://github.com/Deepak081999/shreeRadha"
+              demoLink="https://shree-radha.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={AIIP}
+              isBlog={false}
+              title="AI Interface Prototype"
+              description="AI Interface Prototype is a sleek, frontend-only AI interface built using Next.js, TypeScript, and Tailwind CSS. This project demonstrates a modern, responsive, and user-friendly interface for interacting with AI models, designed for rapid prototyping and experimentation without backend dependencies."
+              ghLink="https://github.com/Deepak081999/AI-Interface-Prototype"
+              demoLink="https://ai-interface-prototype.vercel.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={reactques}
