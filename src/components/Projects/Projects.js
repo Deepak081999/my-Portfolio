@@ -11,6 +11,7 @@ import js from "../../Assets/Projects/js.jpg";
 import reactques from "../../Assets/Projects/reactques.jpg";
 import AIIP from "../../Assets/Projects/AI-I-P.jpg";
 import radhe from "../../Assets/Projects/radhe.jpg";
+import django from "../../Assets/Projects/django.jpg";
 import bitsOfCode from "../../Assets/Projects/shop-g.jpg";
 
 function Projects() {
@@ -25,6 +26,17 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={django}
+              isBlog={false}
+              title="Developed a dynamic blog web application using the Django framework that allows users to create, update, and delete blog posts. Implemented secure user authentication including login and registration to manage access control.
+
+               The project uses Django’s ORM and MVC architecture for efficient data handling and scalable backend development. A responsive user interface was built using HTML and CSS to ensure smooth user interaction. This project demonstrates my ability to build secure and scalable web applications using Python and Django"
+              ghLink="https://github.com/Deepak081999/django"
+            // demoLink=""
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={radhe}

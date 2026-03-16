@@ -22,8 +22,13 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> DEEPAK SAINI </strong>
+                <strong className="main-name"> Deepak Saini </strong>
               </h1>
+
+              <h3 style={{ paddingLeft: 45 }}>
+                Full Stack Developer | MERN Stack | PHP & CodeIgniter | Python & Django
+                | Upwork Freelancer
+              </h3>
 
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />

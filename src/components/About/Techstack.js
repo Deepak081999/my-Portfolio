@@ -8,7 +8,9 @@ import {
   DiGit,
   DiJava,
   DiCodeigniter,
+  DiPython,
 } from "react-icons/di";
+import { SiDjango } from "react-icons/si";
 import { MdHtml, MdPhp, MdCss } from "react-icons/md";
 
 
@@ -16,6 +18,12 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
 
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDjango />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <MdHtml />
       </Col>

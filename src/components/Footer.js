@@ -4,6 +4,7 @@ import {
   AiFillGithub,
   AiFillInstagram,
 } from "react-icons/ai";
+import { SiUpwork } from "react-icons/si";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Footer() {
@@ -48,6 +49,17 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />
+              </a>
+            </li>
+
+            <li className="social-icons">
+              <a
+                href="https://www.upwork.com/freelancers/~01f22da2cd313a3e9e?mp_source=share"
+                style={{ color: "white" }}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <SiUpwork />
               </a>
             </li>
           </ul>
