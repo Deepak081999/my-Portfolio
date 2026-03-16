@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://deepak081999.github.io/my-Portfolio/",
+  "homepage": "/my-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,6 +27,7 @@
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "install": "npm install --legacy-peer-deps",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "gh-pages-clean": "gh-pages-clean",
