@@ -27,7 +27,6 @@
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "install": "npm install --legacy-peer-deps",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "gh-pages-clean": "gh-pages-clean",
